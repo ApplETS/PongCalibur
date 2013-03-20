@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="cac50f1c-50c3-4b01-9ec0-afa896fbee8b" Version="1.0.0.0" Publisher="CN=Michael" />
+  <Properties>
+    <DisplayName>Pongcalibur</DisplayName>
+    <PublisherDisplayName>RegexCalibur</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="Pongcalibur" Logo="Assets\logo.png" SmallLogo="Assets\smalllogo.png" Description="The Legend of Pongcalibur, (c) Regexcalibur 2013" ForegroundText="light" BackgroundColor="#a0a0a0">
+        <DefaultTile WideLogo="Assets\widelogo.png" />
+        <SplashScreen Image="Assets\splash.png" BackgroundColor="#a0a0a0" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
