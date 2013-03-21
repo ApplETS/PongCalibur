@@ -1,1 +1,1 @@
-C:\Users\Student\Desktop\Pong HTML5 Template\HTML5_Template.jsproj;neutral
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\HTML5_Template.jsproj;neutral

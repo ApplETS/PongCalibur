@@ -47,7 +47,9 @@
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetPlatformVersion>8.0</TargetPlatformVersion>
     <DefaultLanguage>en-US</DefaultLanguage>
-    <PackageCertificateKeyFile>HTML5_Template_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateKeyFile>HTML5_Template_StoreKey.pfx</PackageCertificateKeyFile>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <PackageCertificateThumbprint>703A97867DBCFC499BBE917DCC3F8713D12139C3</PackageCertificateThumbprint>
   </PropertyGroup>
   <ItemGroup>
     <AppxManifest Include="package.appxmanifest">
@@ -55,6 +57,7 @@
     </AppxManifest>
     <Content Include="Assets\ball.png" />
     <Content Include="Assets\bg.png" />
+    <Content Include="Assets\cloud.png" />
     <Content Include="Assets\enemyScore.mp3" />
     <Content Include="Assets\hit.mp3" />
     <Content Include="Assets\logo.png" />
@@ -63,6 +66,7 @@
     <Content Include="Assets\playerScore.mp3" />
     <Content Include="Assets\smalllogo.png" />
     <Content Include="Assets\splash.png" />
+    <Content Include="Assets\storelogo.png" />
     <Content Include="Assets\wall.mp3" />
     <Content Include="Assets\widelogo.png" />
     <Content Include="Assets\win.png" />
@@ -72,13 +76,19 @@
     <Content Include="CreateJS\soundjs-0.4.0.min.js" />
     <Content Include="CreateJS\soundjs.flashplugin-0.3.0.min.js" />
     <Content Include="CreateJS\tweenjs-0.3.0.min.js" />
+    <Content Include="css\privacy.css" />
     <Content Include="default.html" />
+    <Content Include="js\privacy.js" />
+    <Content Include="js\tweenjs-0.2.0.min.js" />
+    <Content Include="privacy.html" />
+    <None Include="HTML5_Template_StoreKey.pfx" />
     <Content Include="images\logo.png" />
     <Content Include="images\smalllogo.png" />
     <Content Include="images\splashscreen.png" />
     <Content Include="images\storelogo.png" />
     <Content Include="js\default.js" />
     <Content Include="css\default.css" />
+    <None Include="Package.StoreAssociation.xml" />
     <None Include="HTML5_Template_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>

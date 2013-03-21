@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>APPLETS-W8</Machine>
+    <WindowsUser>Club</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\ball.png">
+      <PackagePath>Assets\ball.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\bg.png">
+      <PackagePath>Assets\bg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\cloud.png">
+      <PackagePath>Assets\cloud.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\logo.png">
+      <PackagePath>Assets\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\lose.png">
+      <PackagePath>Assets\lose.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\paddle.png">
+      <PackagePath>Assets\paddle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\smalllogo.png">
+      <PackagePath>Assets\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\splash.png">
+      <PackagePath>Assets\splash.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\storelogo.png">
+      <PackagePath>Assets\storelogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\widelogo.png">
+      <PackagePath>Assets\widelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\win.png">
+      <PackagePath>Assets\win.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\enemyScore.mp3">
+      <PackagePath>Assets\enemyScore.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\hit.mp3">
+      <PackagePath>Assets\hit.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\playerScore.mp3">
+      <PackagePath>Assets\playerScore.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\Assets\wall.mp3">
+      <PackagePath>Assets\wall.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\CreateJS\easeljs-0.5.0.min.js">
+      <PackagePath>CreateJS\easeljs-0.5.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\CreateJS\movieclip-0.5.0.min.js">
+      <PackagePath>CreateJS\movieclip-0.5.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\CreateJS\preloadjs-0.2.0.min.js">
+      <PackagePath>CreateJS\preloadjs-0.2.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\CreateJS\soundjs-0.4.0.min.js">
+      <PackagePath>CreateJS\soundjs-0.4.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\CreateJS\soundjs.flashplugin-0.3.0.min.js">
+      <PackagePath>CreateJS\soundjs.flashplugin-0.3.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\CreateJS\tweenjs-0.3.0.min.js">
+      <PackagePath>CreateJS\tweenjs-0.3.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\js\privacy.js">
+      <PackagePath>js\privacy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\js\tweenjs-0.2.0.min.js">
+      <PackagePath>js\tweenjs-0.2.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\css\privacy.css">
+      <PackagePath>css\privacy.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\privacy.html">
+      <PackagePath>privacy.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

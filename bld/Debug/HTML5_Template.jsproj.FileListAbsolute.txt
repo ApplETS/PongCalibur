@@ -33,3 +33,16 @@ C:\Users\Student\Desktop\Pong HTML5 Template\bld\Debug\resources.resfiles
 C:\Users\Student\Desktop\Pong HTML5 Template\bld\Debug\pri.resfiles
 C:\Users\Student\Desktop\Pong HTML5 Template\bld\Debug\LanguageQualifiers.txt
 C:\Users\Student\Desktop\Pong HTML5 Template\bld\Debug\ProjectArchitectures.txt
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bin\Debug\resources.pri
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bin\Debug\AppxManifest.xml
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bin\Debug\HTML5_Template.build.appxrecipe
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Debug\priconfig.xml.intermediate
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Debug\layout.resfiles.intermediate
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Debug\resources.resfiles.intermediate
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Debug\pri.resfiles.intermediate
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Debug\priconfig.xml
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Debug\layout.resfiles
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Debug\resources.resfiles
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Debug\pri.resfiles
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Debug\LanguageQualifiers.txt
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Debug\ProjectArchitectures.txt

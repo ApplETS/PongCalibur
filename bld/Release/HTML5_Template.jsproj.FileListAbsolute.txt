@@ -1,0 +1,13 @@
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bin\Release\resources.pri
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bin\Release\AppxManifest.xml
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bin\Release\HTML5_Template.build.appxrecipe
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Release\priconfig.xml.intermediate
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Release\layout.resfiles.intermediate
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Release\resources.resfiles.intermediate
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Release\pri.resfiles.intermediate
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Release\priconfig.xml
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Release\layout.resfiles
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Release\resources.resfiles
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Release\pri.resfiles
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Release\LanguageQualifiers.txt
+C:\Users\Club\Documents\Visual Studio 2012\Projects\PongCalibur\bld\Release\ProjectArchitectures.txt
